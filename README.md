@@ -11,3 +11,5 @@ Changes appear in the app within a few minutes of being saved here.
 
 > Keep `content.json` as valid JSON. The easiest way to change it is to ask Claude,
 > or use the Banner/Notice tools — they keep the format correct for you.
+
+_Content is managed here; changes appear in the app automatically._
