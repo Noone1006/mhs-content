@@ -1,19 +1,5 @@
 {
-  "banners": [
-    {
-      "id": "basildon-fire-test",
-      "message": "Fire alarms are being tested here today. If you hear the alarm, please stay where you are and wait for staff instructions.",
-      "sites": [
-        "basildon",
-        "broomfield"
-      ],
-      "urgent": true
-    },
-    {
-      "id": "test",
-      "message": "test"
-    }
-  ],
+  "banners": [],
   "notices": [
     {
       "id": "coffee-floor-c",
