@@ -370,7 +370,7 @@
         "hospital": "southend",
         "ward": "Active home Suite",
         "specialty": "Discharge unit and winter escalation area",
-        "location": "Now situated on Windsor ward, 6th floor tower block. We will be called Active home suite- Windsor",
+        "location": "Windsor ward, 6th floor tower block",
         "phone": "0300 443 2257",
         "phone2": "0300 443 6914",
         "visiting": "9am to 8pm"
@@ -597,7 +597,7 @@
       {
         "hospital": "southend",
         "ward": "Princess Anne Ward",
-        "specialty": "Elective, Colorectal Recovery Team — 0300 443 7101, Urology Enhanced Recovery — 0300 443 7640",
+        "specialty": "Elective",
         "location": "Floor 9, Tower Block",
         "phone": "0300 443 0539",
         "visiting": "11am to 8pm"
@@ -653,7 +653,8 @@
       {
         "hospital": "southend",
         "ward": "Stambridge Ward",
-        "location": "Diabetes and Endocrine, Infectious Diseases - General Medical Floor 1, Cardigan Building",
+        "specialty": "Care of the Elderly and medical ward",
+        "location": "Floor 1, Cardigan Building",
         "phone": "0300 443 3730",
         "visiting": "11am to 8pm"
       },
@@ -863,7 +864,7 @@
         "ward": "Rayne Ward (A304)",
         "specialty": "Surgery, Urology, Gynaecology",
         "location": "Zone A, 3rd floor, room 04",
-        "phone": "0300 443 1252",
+        "phone": "0300 443 0242",
         "visiting": "11am to 8pm"
       },
       {
