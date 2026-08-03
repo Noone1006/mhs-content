@@ -329,6 +329,614 @@
         "specialty": "Delivery (low risk)",
         "location": "Level D, Maternity Block",
         "phone": "0300 443 6794"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Accident and Emergency (A&E)",
+        "location": "Emergency Department Ground floor",
+        "phone": "0300 443 9992"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Accident and Emergency (A&E) paediatrics",
+        "location": "Paediatric Emergency Department",
+        "phone": "0300 443 0347"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Bedwell Ward",
+        "location": "Estuary and Bedwell on the ground floor",
+        "phone": "0300 443 8745",
+        "phone2": "0300 443 1184",
+        "visiting": "11am until 9pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Estuary Ward",
+        "location": "Estuary and Bedwell on the ground floor",
+        "phone": "0300 443 8745",
+        "phone2": "0300 443 1184",
+        "visiting": "11am until 9pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Acute Medical Receiving Unit (AMRU) on Dowsett Ward",
+        "specialty": "Acute Medicine",
+        "location": "Prittlewell wing, Ground Floor, Dowsett ward",
+        "phone": "0300 443 0562",
+        "visiting": "Visiting is 24 hours, 7 days a week"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Active home Suite",
+        "specialty": "Discharge unit and winter escalation area",
+        "location": "Now situated on Windsor ward, 6th floor tower block. We will be called Active home suite- Windsor",
+        "phone": "0300 443 2257",
+        "phone2": "0300 443 6914",
+        "visiting": "9am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Balmoral Haematology and Oncology Unit",
+        "specialty": "Oncology, Haematology, Palliative Care",
+        "location": "Floor 1, Cardigan Building",
+        "phone": "0300 443 0504"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Benfleet Ward",
+        "specialty": "Acute Stroke Unit",
+        "location": "Ground floor, Cardigan Building",
+        "phone": "0300 443 0505",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Blenheim Ward Renal",
+        "specialty": "General Medical",
+        "location": "Floor 3, Tower Block",
+        "phone": "0300 443 0507",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Cardiac and Medical Day Stay (CMDS)",
+        "specialty": "Cardiology",
+        "location": "Ground floor, Hillborough Building",
+        "phone": "0300 443 4084",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Sita Lumsden",
+        "specialty": "Cardiology",
+        "location": "Floor 2, Tower Block",
+        "phone": "0300 443 0145",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Castlepoint Ward",
+        "specialty": "MSK and Elective",
+        "location": "Floor 8, Tower Block",
+        "phone": "0300 443 0509",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Central Delivery Suite (CDS)",
+        "specialty": "Maternity",
+        "location": "Floor 2, Cardigan Building",
+        "phone": "0300 443 0022"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Chalkwell Ward",
+        "specialty": "Short Stay for Medicine of the Elderly (DME)",
+        "location": "Floor 1, Cardigan Building",
+        "phone": "0300 443 0513",
+        "visiting": "11.30am to 9pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Critical Care Ward",
+        "specialty": "Critical Care",
+        "location": "Floor 1, Prittlewell Building",
+        "phone": "0300 443 1121",
+        "phone2": "0300 443 0514",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Day Assessment Unit (DAU)",
+        "specialty": "Older Persons Ambulatory Service",
+        "location": "Ground Floor, Prittlewell Building",
+        "phone": "0300 443 0515",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Day Surgery Unit",
+        "specialty": "Surgical Specialties",
+        "location": "Ground Floor, Hillborough Building",
+        "phone": "0300 443 1250",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Eastwood Ward",
+        "specialty": "Gynaecology",
+        "location": "Floor 2, Cardigan Building",
+        "phone": "0300 443 0041",
+        "phone2": "0300 443 0518",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Eleanor Hobbs Ward",
+        "location": "Floor 5, Tower Block",
+        "phone": "0300 443 0519",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Elective Admissions Lounge (EAL)",
+        "specialty": "Surgical",
+        "location": "Floor 1, Tower Block",
+        "phone": "0300 443 5365",
+        "phone2": "0300 443 5365",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Elizabeth Loury Ward",
+        "specialty": "Oncology, Haematology",
+        "location": "Ground Floor, Prittlewell Building",
+        "phone": "0300 443 2090",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Endoscopy Unit",
+        "location": "Mz, Tower Block",
+        "phone": "0300 443 4868"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Eye Ward",
+        "specialty": "Eye unit, Ophthalmology —",
+        "phone": "0300 443 2569",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Eye Theatre Eye Unit",
+        "specialty": "Ophthalmology",
+        "phone": "0300 443 5041"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Fetal Medicine Unit",
+        "specialty": "Maternity",
+        "location": "Floor 2, Cardigan Building (B1)",
+        "phone": "0300 443 0042"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Hockley Ward",
+        "location": "Department of medicine for the Elderly (DME)",
+        "phone": "0300 443 0528",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "High Dependency Unit (HDU)",
+        "location": "Floor 1, Prittlewell Building (via Kitty Hubbard)",
+        "phone": "0300 443 0530",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Infusion Unit",
+        "location": "Floor 2, Cherry Tree",
+        "phone": "0300 443 6086",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Margaret Broom 1",
+        "specialty": "Antenatal - Maternity",
+        "location": "Floor 2, Cardigan Building",
+        "phone": "0300 443 0041"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Margaret Broom 2",
+        "specialty": "Postnatal - Maternity",
+        "location": "Floor 2, Cardigan Building",
+        "phone": "0300 443 0047"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Neonatal Unit",
+        "specialty": "Neonatal Intensive Care - Maternity",
+        "location": "Floor 2, Cardigan Building",
+        "phone": "0300 443 2371"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Neptune Ward",
+        "specialty": "Paediatric",
+        "location": "Floor 1, Cardigan Building",
+        "phone": "0300 443 0535",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Oncology and Haematology",
+        "specialty": "Outpatients",
+        "location": "Ground Floor, Cardigan Building, (via Estuary ward)",
+        "phone": "0300 443 0523",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Paediatric Assessment Unit (PAU)",
+        "location": "Floor 1, Cardigan Building",
+        "phone": "0300 443 0535",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Paglesham Ward",
+        "specialty": "Stroke Rehab Unit",
+        "location": "Ground Floor, Cardigan Building",
+        "phone": "0300 443 0538",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Princess Anne Ward",
+        "specialty": "Elective, Colorectal Recovery Team — 0300 443 7101, Urology Enhanced Recovery — 0300 443 7640",
+        "location": "Floor 9, Tower Block",
+        "phone": "0300 443 0539",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Renal dialysis",
+        "specialty": "Renal unit",
+        "location": "Carlingford Centre, Rear of Hospital",
+        "phone": "0300 443 0540",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Rochford Ward",
+        "specialty": "Respiratory, ARCU",
+        "location": "Ground Floor, Cardigan Building",
+        "phone": "0300 443 2058",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Surgical Assessment Unit (SAU)",
+        "specialty": "Surgery",
+        "location": "Floor 1, Prittlewell Building (via Cherry Tree wing)",
+        "phone": "0300 443 1671",
+        "visiting": "2pm to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Same Day Emergency Care (SDEC) and Clinical Decisions Unit (CDU)",
+        "specialty": "Acute Medicine",
+        "location": "Cherry Tree Wing, Ground Floor",
+        "phone": "0300 443 0560",
+        "visiting": "8am to 8.30pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Shopland Ward",
+        "specialty": "Trauma",
+        "location": "Floor 7, Tower Block",
+        "phone": "0300 443 0542",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Southbourne Ward",
+        "specialty": "Acute Services",
+        "location": "Floor 4, Tower Block",
+        "phone": "0300 443 0543",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Stambridge Ward",
+        "location": "Diabetes and Endocrine, Infectious Diseases - General Medical Floor 1, Cardigan Building",
+        "phone": "0300 443 3730",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Westcliff Ward",
+        "specialty": "Respiratory",
+        "location": "Ground Floor, Cardigan Building",
+        "phone": "0300 443 0545",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "southend",
+        "ward": "Windsor Ward",
+        "specialty": "Surgery",
+        "location": "Floor 6, Tower Block",
+        "phone": "0300 443 0546",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Accident and Emergency (A&E)",
+        "location": "External Entrance - Level 2",
+        "phone": "0300 443 0245"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Accident and Emergency (A&E) – Children's",
+        "location": "External Entrance - Level 2",
+        "phone": "0300 443 0066"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Acute Medical Unit (AMU, A207)",
+        "specialty": "Medical Assessment",
+        "location": "Zone A - 2nd floor, room 07",
+        "phone": "0300 443 0472",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Baddow Ward (C250)",
+        "specialty": "Care of the Elderly",
+        "location": "Zone C, 2nd floor, room 50",
+        "phone": "0300 443 0403",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Bardfield Ward (C350)",
+        "phone": "0300 443 0474",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Billericay Ward (E321)",
+        "specialty": "ENT/Oral Max Fax",
+        "location": "Zone E, 3rd floor, room 21",
+        "phone": "0300 443 0406",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Braxted Ward (C251)",
+        "specialty": "Care of the Elderly",
+        "location": "Zone C, 2nd floor, room 51",
+        "phone": "0300 443 0404",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Burns Adults Ward (E221)",
+        "specialty": "Adult Burns",
+        "location": "Zone E, 2nd floor, room 21",
+        "phone": "0300 443 0475",
+        "visiting": "2pm to 7pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Burns Intensive Care Unit (ITU)",
+        "phoneNote": "switchboard"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Children's Burns Ward (E225)",
+        "specialty": "Paediatric Burns",
+        "location": "Zone E, 2nd floor, room 25",
+        "phone": "0300 443 0405",
+        "visiting": "10am and 8pm, however only the parent that is not staying overnight can visit anytime"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Day Stay Admissions/Unit (B448)",
+        "specialty": "Day Cases",
+        "location": "Zone B, 4th floor, room 48",
+        "phone": "0300 443 6813"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Frailty Assessment Base (FAB, A203)",
+        "specialty": "Acute Frailty Unit",
+        "location": "Zone A, 2nd floor, room 03 and is based on Gosfield ward",
+        "phone": "0300 443 0481"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Felsted Ward (A205)",
+        "specialty": "Renal and Cardiac",
+        "location": "Zone A, 2nd floor, room 05",
+        "phone": "0300 443 0477",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "General High Dependency Unit (GHDU, A211)",
+        "specialty": "High Dependency",
+        "location": "Zone A, 2nd floor, room 11",
+        "phone": "0300 443 5373",
+        "visiting": "2pm to 4pm / 5pm and 7pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "General Intensive Care Unit (GICU, E226)",
+        "specialty": "Intensive Care",
+        "location": "Zone E, 2nd floor, room 26",
+        "phone": "0300 443 0356",
+        "visiting": "2pm to 4pm / 5pm and 7pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Heybridge Ward (A303)",
+        "specialty": "General surgery, urology, upper and lower GI",
+        "location": "Zone A, 3rd floor, room 03",
+        "phone": "0300 443 0482",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "John Ray Ward (E323)",
+        "specialty": "Elective, Orthopaedic",
+        "location": "Zone E, 3rd floor, room 23",
+        "phone": "0300 443 0483",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Lister Ward (C451) including Discharge lounge",
+        "location": "Zone C, 4th floor, room 51",
+        "phone": "0300 443 0450",
+        "phone2": "0300 444 0333",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Labour Ward (A402)",
+        "location": "Zone A, 4th floor, room 02",
+        "phone": "0300 443 4224"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Mayflower Ward (E322)",
+        "specialty": "Surgical Ward",
+        "location": "Zone E, 3rd floor, room 22",
+        "phone": "0300 443 0485",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Neonatal Unit (A406)",
+        "specialty": "Neonatal Care",
+        "location": "Zone A, 4th floor room 06",
+        "phone": "0300 443 0534"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Notley Ward (E223)",
+        "specialty": "Emergency Orthopaedic",
+        "location": "Zone E, 2nd floor, room 23",
+        "phone": "0300 443 0487",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Phoenix Ward (E122)",
+        "specialty": "Paediatric Care",
+        "location": "Zone E, 1st floor, room 22",
+        "phone": "0300 443 0572",
+        "visiting": "8am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Pegasus Ward (E123)",
+        "specialty": "Paediatric Care",
+        "location": "Zone E, 1st floor, room 23",
+        "phone": "0300 443 1239"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Postnatal Ward (A405)",
+        "specialty": "Postnatal Care, Maternity Sister, Maternity Reception",
+        "location": "Zone A, 4th floor, room 05",
+        "phone": "0300 443 7632",
+        "phone2": "0300 443 1780"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Rayne Ward (A304)",
+        "specialty": "Surgery, Urology, Gynaecology",
+        "location": "Zone A, 3rd floor, room 04",
+        "phone": "0300 443 1252",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Same Day Emergency Care (SDEC, A204)",
+        "specialty": "Medical",
+        "location": "Zone A, 2nd floor, room 4",
+        "phone": "0300 443 7616",
+        "visiting": "8am to 8pm weekdays and 10am and 6pm weekend"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Surgical Emergency Ward (Feering, E125)",
+        "specialty": "Surgical Emergencies",
+        "location": "Zone E, 1st floor, room 25",
+        "phone": "0300 443 0564",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Stock Ward (E320)",
+        "specialty": "Plastic Surgery ward",
+        "location": "Zone E, 3rd floor - room 20",
+        "phone": "0300 443 0494",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Stroke Unit (A302)",
+        "specialty": "Acute stroke patients",
+        "location": "Zone A, 3rd floor, room 02",
+        "phone": "0300 443 7662",
+        "phone2": "0300 443 3705",
+        "visiting": "2pm to 4pm / 5pm and 7pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Terling Ward (A305)",
+        "specialty": "Respiratory",
+        "location": "Zone A, 3rd floor, room 05",
+        "phone": "0300 443 0496",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Tiptree Ward (C351)",
+        "specialty": "General Medicine",
+        "location": "Zone C, 3rd floor, room 51",
+        "phone": "0300 443 0497",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Tollesbury Ward (E222)",
+        "specialty": "Gastro ward",
+        "location": "Zone E, 2nd floor, room 22",
+        "phone": "0300 443 0498",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Wizard Ward (A301)",
+        "specialty": "Paediatric day case",
+        "location": "Zone A, 3rd floor, room 01",
+        "phone": "0300 443 4414"
+      },
+      {
+        "hospital": "broomfield",
+        "ward": "Writtle Ward (C450)",
+        "specialty": "Care of the elderly",
+        "location": "Zone C, 4th floor, room 50",
+        "phone": "0300 443 0499",
+        "visiting": "11am to 8pm"
       }
     ]
   }
