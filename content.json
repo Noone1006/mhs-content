@@ -7,5 +7,329 @@
       "body": "You'll find it on Floor C, near the main lifts.",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 120\" width=\"120\" height=\"120\">\n  <path d=\"M53 28 q-7 -7 0 -13 q7 -6 0 -13\" fill=\"none\" stroke=\"#AEB7C2\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <path d=\"M67 28 q-7 -7 0 -13 q7 -6 0 -13\" fill=\"none\" stroke=\"#AEB7C2\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <rect x=\"35\" y=\"34\" width=\"50\" height=\"13\" rx=\"3.5\" fill=\"#C7CBD1\"/>\n  <rect x=\"51\" y=\"28\" width=\"18\" height=\"8\" rx=\"2.5\" fill=\"#C7CBD1\"/>\n  <path d=\"M39 47 L81 47 L75 106 Q74.5 111 69.5 111 L50.5 111 Q45.5 111 45 106 Z\" fill=\"#F6F7F9\" stroke=\"#C4CCD4\" stroke-width=\"2.2\"/>\n  <path d=\"M42 68 L78 68 L76 86 L44 86 Z\" fill=\"#005EB8\"/>\n  <path d=\"M60 83 l-4.5 -4.5 a2.8 2.8 0 0 1 4.5 -3.4 a2.8 2.8 0 0 1 4.5 3.4 z\" fill=\"#ffffff\"/>\n</svg>"
     }
-  ]
+  ],
+  "wardInfo": {
+    "checkedOn": "2026-08-03",
+    "switchboards": {
+      "basildon": "0300 443 0003",
+      "southend": "0300 443 0002",
+      "broomfield": "0300 443 0001"
+    },
+    "wards": [
+      {
+        "hospital": "basildon",
+        "ward": "Ambulatory Care (Medical same day emergency care Unit)",
+        "location": "Level C, AMU East",
+        "phone": "0300 443 0409"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Acute Medical Unit (AMU) East",
+        "location": "Level C, Main building",
+        "phone": "0300 443 2201",
+        "visiting": "2pm to 7pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Acute Medical Unit (AMU) West",
+        "location": "Level C, Main building",
+        "phone": "0300 443 0411",
+        "visiting": "11am to 7pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Brook Suite",
+        "location": "Level B, In Cardiothoracic Centre",
+        "phone": "0300 443 4159",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Bulphan Ward",
+        "specialty": "General Surgical",
+        "location": "Level A, Jubilee Wing",
+        "phone": "0300 443 0413",
+        "visiting": "11.30am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Burstead Ward",
+        "specialty": "Acute Respiratory/Medicine",
+        "location": "Level A",
+        "phone": "0300 443 0414",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Cedar Suite",
+        "specialty": "Post Natal",
+        "location": "Level B, Maternity Block",
+        "phone": "0300 443 2035"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Chelmer Ward",
+        "specialty": "Surgical",
+        "location": "Level D, Cardiothoracic Centre",
+        "phone": "0300 443 4916",
+        "visiting": "2pm to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Colne Ward",
+        "specialty": "Intensive Care",
+        "location": "Level C, Cardiothoracic Centre",
+        "phone": "0300 443 2374",
+        "visiting": "2pm to 6pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Critical Care",
+        "specialty": "Intensive Care",
+        "location": "Level A, Middle Block",
+        "phone": "0300 443 7767",
+        "visiting": "1pm to 6pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Edith Cavell Ward",
+        "specialty": "Gastro",
+        "location": "Level C, Jubilee Wing",
+        "phone": "0300 443 0428",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Elizabeth Fry Ward",
+        "specialty": "Renal",
+        "location": "Level D, Middle Block Main Hospital",
+        "phone": "0300 443 0430",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Elsdon Ward",
+        "specialty": "Neonatal Intensive Care Unit (NICU)",
+        "location": "Level A, old block",
+        "phone": "0300 443 0341"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Florence Nightingale Ward",
+        "specialty": "Care of the Elderly",
+        "location": "Level B, Jubilee Wing",
+        "phone": "0300 443 0433",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Fredrick Banting Ward",
+        "specialty": "Vascular",
+        "location": "Level A, Middle Block towards Jubilee Wing",
+        "phone": "0300 443 5363",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Horndon Ward",
+        "specialty": "Orthopaedic",
+        "location": "Level A, Jubilee Wing",
+        "phone": "0300 443 0440",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "James Mackenzie Ward",
+        "specialty": "Coronary Care",
+        "location": "Level A, Middle Block Main Hospital",
+        "phone": "0300 443 0441",
+        "visiting": "3pm to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Kate Evelyn Luard Ward",
+        "specialty": "Trauma and Orthopaedic",
+        "location": "Level A, by Corner of Jubilee ward",
+        "phone": "0300 443 0409",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Katherine Monk Ward",
+        "location": "Level A, Jubilee Wing",
+        "phone": "0300 443 0443",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Kingswood Ward",
+        "specialty": "Medical",
+        "location": "Level A, Jubilee Wing",
+        "phone": "0300 443 0444",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Laindon East",
+        "specialty": "Critical care",
+        "location": "Level A, Middle Block in the main hospital",
+        "phone": "0300 443 1305",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Laindon West",
+        "specialty": "Acute medicine",
+        "location": "Level A, main building",
+        "phone": "0300 443 8899",
+        "visiting": "11am to 7pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Linford Ward",
+        "specialty": "Orthopaedic",
+        "location": "Level A, Jubilee Wing",
+        "phone": "0300 443 0448",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Lionel Cosin Ward",
+        "specialty": "Care of the Elderly",
+        "location": "Level C, new block",
+        "phone": "0300 443 0449",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Lister Ward",
+        "specialty": "Care of the Elderly",
+        "location": "Level B, Jubilee Wing",
+        "phone": "0300 443 0484",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Marjory Warren Ward",
+        "specialty": "Palliative Care",
+        "location": "Level B",
+        "phone": "0300 443 0451",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Mulberry assessment",
+        "specialty": "Maternity",
+        "location": "Level D, Maternity Block",
+        "phone": "0300 44 3 5555"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Osler Ward",
+        "location": "Level C, Jubilee Wing",
+        "phone": "0300 443 0456",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Orsett Ward",
+        "specialty": "Acute Respiratory/Medicine",
+        "location": "Level C, Jubilee Wing",
+        "phone": "0300 443 0455",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Paediatric Assessment Unit (PAU)",
+        "specialty": "Children's A&E",
+        "phone": "0300 443 3782",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Pasteur Ward",
+        "specialty": "Stroke",
+        "location": "Level B, Jubilee Wing",
+        "phone": "0300 443 0458",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Penguin Ward",
+        "specialty": "Paediatrics, emergency",
+        "location": "Level C, Maternity Block",
+        "phone": "0300 443 0459",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Puffin Ward",
+        "specialty": "Paediatrics, medical",
+        "location": "Level A, Maternity Block",
+        "phone": "0300 443 0460",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Roding Ward",
+        "specialty": "Angiograms",
+        "location": "Level B, Cardiothoracic Centre",
+        "phone": "0300 443 8100",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Surgical Same Day Emergency Care (SSDEC)",
+        "location": "Level A — on KEL — Jubilee Wing",
+        "phone": "0300 443 4918"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Short Stay Escalation",
+        "specialty": "Overflow ward",
+        "location": "Level A, old block",
+        "phone": "0300 443 0426",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Surgical Referrals Unit",
+        "specialty": "Surgical",
+        "location": "Level B, old block",
+        "phone": "0300 443 0463",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Thames Ward",
+        "specialty": "Day stay",
+        "location": "Level B, In Cardiothoracic Centre",
+        "phone": "0300 443 3165",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Wagtail Ward",
+        "specialty": "Paediatric, surgery",
+        "location": "Level A, Maternity Block",
+        "phone": "0300 443 0467",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "William Harvey Ward",
+        "specialty": "Medical",
+        "location": "Level D, Middle Block Main Hospital",
+        "phone": "0300 443 0468",
+        "visiting": "11am to 8pm"
+      },
+      {
+        "hospital": "basildon",
+        "ward": "Willow Suite",
+        "specialty": "Delivery (low risk)",
+        "location": "Level D, Maternity Block",
+        "phone": "0300 443 6794"
+      }
+    ]
+  }
 }
