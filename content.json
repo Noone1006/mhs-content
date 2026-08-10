@@ -987,10 +987,6 @@
             "hours": "Monday - 8am to 5.30pm. Tuesday to Thursday - 9am to 5.30pm. Friday - 8am to 5.30pm. Saturday - 12noon to 4pm. Sunday - closed."
           },
           {
-            "name": "League of Friends tea bar in Outpatients",
-            "type": "Shops and cashiers office"
-          },
-          {
             "name": "Cashier's Office",
             "type": "Shops and cashiers office",
             "hours": "Located on Level C in the main reception area. The office is open 8.30am to 4.30pm Monday to Friday, closed weekends and bank holidays. Call 0300 443 4977."
@@ -1003,10 +999,6 @@
             "name": "Pharmacy",
             "type": "Shops",
             "hours": "Outpatients on the ground floor of the Tower Block, open Monday to Friday, 9am to 5.30pm. Open weekends 9am to 4.30pm."
-          },
-          {
-            "name": "Costa Coffee",
-            "type": "Shops"
           },
           {
             "name": "Restaurant",
