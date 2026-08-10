@@ -940,5 +940,149 @@
         "visiting": "11am to 8pm"
       }
     ]
+  },
+  "facilities": {
+    "checkedOn": "2026-08-10",
+    "hospitals": {
+      "basildon": {
+        "venues": [
+          {
+            "name": "Costa Coffee",
+            "type": "Cafe and restaurant",
+            "hours": "The Costa shop in the main entrance is open: Monday to Friday - 7am to 8pm. Saturday to Sunday - 8am to 7pm."
+          },
+          {
+            "name": "Costa Coffee in the Cardiothoracic Centre",
+            "type": "Cafe and restaurant"
+          },
+          {
+            "name": "Restaurant (by main entrance)",
+            "type": "Cafe and restaurant",
+            "hours": "The coffee bar in the main restaurant is open 7.30am–8pm, serving drinks and snacks."
+          },
+          {
+            "name": "League of Friends tea bars",
+            "type": "Cafe and restaurant",
+            "hours": "The League of Friends tea bars offer hot and cold drinks, filled rolls and snacks. Outpatient department: 10am to 3pm Monday to Thursday, and 10am to 1pm on Friday Antenatal department: 9am to 1pm Monday to Friday"
+          },
+          {
+            "name": "Costa Café in The Essex Cardiothoracic Centre",
+            "type": "Cafe and restaurant",
+            "hours": "The café is open 7.30am to 6pm Monday to Friday, and 9.30am to 6pm on Saturday and Sunday serving a range of hot and cold drinks, sandwiches, toasted sandwiches and snacks."
+          },
+          {
+            "name": "Pharmacy",
+            "type": "Shops and cashiers office",
+            "hours": "Outpatients (Boots The Chemist) in the main entrance concourse, open Monday to Friday 9am to 6pm. Saturdays, Sundays, and Bank holidays (excluding Christmas Day and New Years Day) open 9.30am to 2.30pm."
+          },
+          {
+            "name": "M&S",
+            "type": "Shops and cashiers office",
+            "hours": "The Marks and Spencers (M&S) shop is open: Monday to Friday - 7am to 9pm Saturday - 7am to 8pm Sunday - 8am to 8pm."
+          },
+          {
+            "name": "WHSmith",
+            "type": "Shops and cashiers office",
+            "hours": "Monday to Friday - 7am and 8pm. Saturday and Sunday - 8am to 7pm."
+          },
+          {
+            "name": "Stock Shop",
+            "type": "Shops and cashiers office",
+            "hours": "Monday - 8am to 5.30pm. Tuesday to Thursday - 9am to 5.30pm. Friday - 8am to 5.30pm. Saturday - 12noon to 4pm. Sunday - closed."
+          },
+          {
+            "name": "League of Friends tea bar in Outpatients",
+            "type": "Shops and cashiers office"
+          },
+          {
+            "name": "Cashier's Office",
+            "type": "Shops and cashiers office",
+            "hours": "Located on Level C in the main reception area. The office is open 8.30am to 4.30pm Monday to Friday, closed weekends and bank holidays. Call 0300 443 4977."
+          }
+        ]
+      },
+      "southend": {
+        "venues": [
+          {
+            "name": "Pharmacy",
+            "type": "Shops",
+            "hours": "Outpatients on the ground floor of the Tower Block, open Monday to Friday, 9am to 5.30pm. Open weekends 9am to 4.30pm."
+          },
+          {
+            "name": "Costa Coffee",
+            "type": "Shops"
+          },
+          {
+            "name": "Restaurant",
+            "type": "Shops",
+            "hours": "Southend staff and visitors will be able to use the Time2Eat app on their mobile phones to order a variety of food, snacks, and drinks. Some items will have a staff discount, so ID will be required when collecting the order. When placing an order, customers will be able to choose a specific time slot to collect their order from either Wellspring Restaurant or the Education Centre dining room."
+          }
+        ]
+      },
+      "broomfield": {
+        "venues": [
+          {
+            "name": "The Acorn Food Pod",
+            "type": "Cafés",
+            "hours": "The Acorn Food pod Serving hot food for breakfast and lunch, the Acorn food pod is located next to the Medical Academic Unit. This is currently open to staff only. Open 7am to 3pm, Monday to Friday"
+          },
+          {
+            "name": "Costa Coffee",
+            "type": "Cafés",
+            "hours": "The sit-down coffee shop is located at the front of the atrium. Open 7am to 10pm, Monday to Friday, and 9am to 5pm at the weekend. There is a second smaller kiosk shop in the middle of the atrium, adjacent to the entrance to zone E. Open 7am to 5.30pm, Monday to Friday, and 9am to 4pm at the weekend. The stall is closed on 25 and 26 December and 1 January."
+          },
+          {
+            "name": "Pharmacy",
+            "type": "Shops",
+            "hours": "Outpatients in the Main Atrium, is open Monday to Friday, 9am to 5pm."
+          },
+          {
+            "name": "Friends of Broomfield",
+            "type": "Shops",
+            "hours": "Shop 1, south entrance is open 9am to 4pm, Monday to Friday Shop 2, end of atrium, adjacent to A111 is open 9am to 4pm Monday to Friday Both shops are closed on weekends and bank holidays. The Friends also run a trolley service which can be encountered on most routes throughout the hospital."
+          },
+          {
+            "name": "M&S Simply Food",
+            "type": "Shops",
+            "hours": "M&S can be found in the middle of the atrium accessible through the main entrance or the central corridor. Open 7.30am to 8pm, Monday to Friday. 8.30am to 8pm on Saturday and 10am to 8pm on Sunday. Closed 25 and 26 December and 1 January."
+          },
+          {
+            "name": "WH Smith",
+            "type": "Shops",
+            "hours": "WH Smith can be found in the middle of the atrium accessible through the main entrance or the central corridor. Open 6.30am to 8pm, Monday to Friday, and 8am to 6pm at the weekend. Closed 25 and 26 December and 1 January."
+          },
+          {
+            "name": "Cashiers",
+            "type": "Vending and cash machines",
+            "hours": "You can call the cashiers on 0300 443 0552."
+          },
+          {
+            "name": "Vending machines",
+            "type": "Vending and cash machines",
+            "hours": "There are many vending machines throughout the hospital that offer food and drink refreshments. You can find them in: Zone A at in the central corridor, on level 2 - A&E department waiting room, near A205, and on level 3 near A305 Zone C on level 2 in the lift lobby Zone E on level 1 in the lift lobby and level 2 in the lift lobby."
+          },
+          {
+            "name": "Cash Machines (ATM)",
+            "type": "Vending and cash machines",
+            "hours": "There are three cash machines available, some may have a charge for using the service. You can find them in: Zone A on level 1, in the atrium inside WH Smith (free) Zone B on level 2 near south entrance and opposite the reception desk Zone E on level 1 in the lift lobby"
+          },
+          {
+            "name": "Post box",
+            "type": "Vending and cash machines",
+            "hours": "There's a Royal Mail post box located outside M&S Simply Food in the atrium."
+          },
+          {
+            "name": "Public payphones",
+            "type": "Vending and cash machines",
+            "hours": "There are payphones located in: Zone B in the south entrance, opposite lifts Zone A on level 1 in the central corridor and opposite the travel centre"
+          },
+          {
+            "name": "Social spaces",
+            "type": "Vending and cash machines",
+            "hours": "We have areas where you can sit, rest and eat during your visit. These are the wellbeing terrace, main entrance courtyard and at the end of the atrium."
+          }
+        ]
+      }
+    }
   }
 }
