@@ -952,10 +952,6 @@
             "hours": "The Costa shop in the main entrance is open: Monday to Friday - 7am to 8pm. Saturday to Sunday - 8am to 7pm."
           },
           {
-            "name": "Costa Coffee in the Cardiothoracic Centre",
-            "type": "Cafe and restaurant"
-          },
-          {
             "name": "Restaurant (by main entrance)",
             "type": "Cafe and restaurant",
             "hours": "The coffee bar in the main restaurant is open 7.30am–8pm, serving drinks and snacks."
@@ -966,7 +962,7 @@
             "hours": "The League of Friends tea bars offer hot and cold drinks, filled rolls and snacks. Outpatient department: 10am to 3pm Monday to Thursday, and 10am to 1pm on Friday Antenatal department: 9am to 1pm Monday to Friday"
           },
           {
-            "name": "Costa Café in The Essex Cardiothoracic Centre",
+            "name": "Costa Café in the Cardiothoracic Centre",
             "type": "Cafe and restaurant",
             "hours": "The café is open 7.30am to 6pm Monday to Friday, and 9.30am to 6pm on Saturday and Sunday serving a range of hot and cold drinks, sandwiches, toasted sandwiches and snacks."
           },
