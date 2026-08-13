@@ -1,5 +1,16 @@
 {
   "banners": [],
+  "wifi": {
+    "intro": "Free Wi-Fi is available for patients and visitors at all three hospitals.",
+    "network": "NHS Wi-Fi",
+    "steps": [
+      "Open your phone's Wi-Fi settings and choose the network called NHS Wi-Fi.",
+      "Read the terms and conditions, then press accept and connect.",
+      "You should then be connected — a page may open to confirm."
+    ],
+    "note": "Some websites may be blocked for security reasons.",
+    "supportPhone": "0344 848 9555"
+  },
   "notices": [
     {
       "id": "coffee-floor-c",
