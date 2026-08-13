@@ -1,7 +1,7 @@
 {
   "banners": [],
   "wifi": {
-    "intro": "Free Wi-Fi is available for patients and visitors at all three hospitals.",
+    "intro": "Free Wi-Fi is usually available for patients and visitors at all three hospitals.",
     "network": "NHS Wi-Fi",
     "steps": [
       "Open your phone's Wi-Fi settings and choose the network called NHS Wi-Fi.",
@@ -9,6 +9,7 @@
       "You should then be connected — a page may open to confirm."
     ],
     "note": "Some websites may be blocked for security reasons.",
+    "supportNote": "Problems connecting? The Wi-Fi is run by an outside company — you can call their support line on 0344 848 9555.",
     "supportPhone": "0344 848 9555"
   },
   "notices": [
