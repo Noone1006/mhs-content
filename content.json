@@ -20,9 +20,7 @@
   "notices": [
     {
       "id": "support-hub",
-      "title": "New: The Support Hub",
-      "body": "A welcoming point in the Broomfield Atrium where patients, staff and visitors can connect with community support — Citizens Advice, housing help from Peabody, employment support, the Essex Wellbeing Service, veterans' support and more. Open to people from all three hospitals. Email mse.thesupportpod@nhs.net to find out more.",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 120\" width=\"120\" height=\"120\">\n  <circle cx=\"60\" cy=\"60\" r=\"50\" fill=\"#E6F0FA\"/>\n  <path d=\"M26 58 L60 28 L94 58\" fill=\"none\" stroke=\"#0B2E63\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n  <path d=\"M60 50 l-5.5 -5.5 a3.4 3.4 0 0 1 5.5 -4.2 a3.4 3.4 0 0 1 5.5 4.2 z\" fill=\"#B4530A\"/>\n  <circle cx=\"41\" cy=\"68\" r=\"7\" fill=\"#005EB8\"/>\n  <path d=\"M31 92 q10 -16 20 0 z\" fill=\"#005EB8\"/>\n  <circle cx=\"60\" cy=\"64\" r=\"8\" fill=\"#00703C\"/>\n  <path d=\"M49 92 q11 -18 22 0 z\" fill=\"#00703C\"/>\n  <circle cx=\"79\" cy=\"68\" r=\"7\" fill=\"#0F6E56\"/>\n  <path d=\"M69 92 q10 -16 20 0 z\" fill=\"#0F6E56\"/>\n</svg>",
+      "title": "The Support Hub",
       "url": "https://noone1006.github.io/mhs-content/support-hub-flyer.pdf",
       "urlLabel": "Open the flyer as a PDF",
       "image": "https://noone1006.github.io/mhs-content/support-hub-flyer.png",
