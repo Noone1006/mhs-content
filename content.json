@@ -34,7 +34,7 @@
     }
   ],
   "wardInfo": {
-    "checkedOn": "2026-08-03",
+    "checkedOn": "2026-08-18",
     "switchboards": {
       "basildon": "0300 443 0003",
       "southend": "0300 443 0002",
@@ -365,7 +365,7 @@
         "hospital": "southend",
         "ward": "Accident and Emergency (A&E) paediatrics",
         "location": "Paediatric Emergency Department",
-        "phone": "0300 443 0347"
+        "phoneNote": "switchboard"
       },
       {
         "hospital": "southend",
