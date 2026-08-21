@@ -17,6 +17,46 @@
     "supportNote": "Problems connecting? The Wi-Fi is run by an outside company — you can call their support line on 0344 848 9555.",
     "supportPhone": "0344 848 9555"
   },
+  "parking": {
+    "intro": "Parking works the same way at all three hospitals — cameras read your number plate when you arrive and leave, and you pay before you go (or park free with a Blue Badge, once registered).",
+    "sites": {
+      "basildon": "The car park office is in the Multi-Storey Car Park, and there is a security office behind main reception. Renal patients can park in a designated Renal Unit bay, and chemotherapy patients in any public car park — ask the department about a free parking permit.",
+      "southend": "The car park office is in the Cardigan Wing. Renal and chemotherapy patients can use the dedicated car park off Carlingford Drive — press the intercom on the way in and out.",
+      "broomfield": "The Cashiers Office at the main entrance can help with parking questions. Renal and chemotherapy patients can park in a designated bay in car park 2, or in the Multi-Storey — ask the department you are visiting to arrange free exit."
+    },
+    "sections": [
+      {
+        "title": "How to pay",
+        "body": "Cameras read your number plate when you arrive and leave — there is no ticket to display. Before you leave, pay at a payment terminal on site, or with the parking app, called Trust, from the App Store or Google Play. Charges can change, so check the current prices on the trust website.",
+        "url": "https://www.mse.nhs.uk/parking-at-our-hospitals",
+        "urlLabel": "Check the current parking charges"
+      },
+      {
+        "title": "Blue Badge holders park free",
+        "body": "Parking is free with a Blue Badge, but you must register your vehicle. You can register once online and your permit usually stays active until your Blue Badge expires. You will need a mobile phone and an email address.",
+        "steps": [
+          "Go to nexusplatform.co.uk/register and create an account with your email address and mobile number.",
+          "Confirm your email using the link they send you, then enter the one-time code they text you.",
+          "Set a 6-digit access code — this lets you sign in easily next time.",
+          "Enter the invitation code G28CMAJ.",
+          "Upload your vehicle details and a photo of your Blue Badge.",
+          "You should then get a confirmation — your permit is active."
+        ],
+        "note": "In a different car one day (or rather not register online)? You can instead enter your Blue Badge and car registration details at the validation console at reception for that day's parking.",
+        "url": "https://nexusplatform.co.uk/register",
+        "urlLabel": "Register your Blue Badge"
+      },
+      {
+        "title": "Free parking for some patients and visitors",
+        "body": "Free-parking permits are usually available for: parents or guardians of children staying overnight, chemotherapy and renal patients, end-of-life care and bereavement visitors, NICU parents, birth partners, and carers of dementia patients. Ask the ward or department you are visiting."
+      },
+      {
+        "title": "If something goes wrong",
+        "body": "Every pay station and exit barrier has a help button linked to the car park and security team — press it and someone can help you."
+      }
+    ],
+    "checkedOn": "2026-08-21"
+  },
   "notices": [
     {
       "id": "support-hub",
