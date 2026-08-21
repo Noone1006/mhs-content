@@ -42,7 +42,7 @@
           "Upload your vehicle details and a photo of your Blue Badge.",
           "You should then get a confirmation — your permit is active."
         ],
-        "note": "In a different car one day (or rather not register online)? You can instead enter your Blue Badge and car registration details at the validation console at reception for that day's parking.",
+        "note": "In a different car one day, or would rather not register online? You can instead enter your Blue Badge and car registration details at the validation console at reception for that day's parking.",
         "url": "https://nexusplatform.co.uk/register",
         "urlLabel": "Register your Blue Badge"
       },

@@ -8,6 +8,18 @@ an app update**.
 - **notices** — the picture cards on the Notice Board.
 - **wardInfo** — each ward's specialty, location, phone number and visiting
   times, mirrored from the trust's own website.
+- **facilities** — the cafés and shops list on Food & Facilities, mirrored
+  from the trust's own website.
+- **wifi** — the how-to-connect card on the Wi-Fi screen (network name,
+  steps, and the provider's support line).
+- **parking** — the "Parking at the hospital" screen: how to pay, the
+  parking operator's app, the Blue Badge registration steps and invitation
+  code, who can get free-parking permits, and one "at this hospital" note
+  per site. **Never put charges or prices in this block** — the "How to
+  pay" section links to the trust's page instead, so the app can never
+  show a stale price. Setting `"sections": []` deliberately withdraws the
+  whole block (the app falls back to trust-website links); deleting the
+  key instead keeps each phone's last good copy.
 
 Changes appear in the app within a few minutes of being saved here.
 
