@@ -3,6 +3,12 @@
     {
       "id": "support-hub-open",
       "message": "New: The Support Hub is open in the Broomfield Atrium — free help with money, housing, work and wellbeing for patients, staff and visitors from all three hospitals. See the Notice Board for details."
+    },
+    {
+      "id": "new-front-door",
+      "message": "The app has a new front door — tap what you need today. Everything from the old menu is still here, behind 'Everything in this app'.",
+      "urgent": false,
+      "expires": "2026-09-30"
     }
   ],
   "wifi": {
