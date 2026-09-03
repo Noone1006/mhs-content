@@ -2,13 +2,15 @@
   "banners": [
     {
       "id": "support-hub-open",
-      "message": "New: The Support Hub is open in the Broomfield Atrium — free help with money, housing, work and wellbeing for patients, staff and visitors from all three hospitals. See the Notice Board for details."
+      "message": "New: The Support Hub is open in the Broomfield Atrium — free help with money, housing, work and wellbeing for patients, staff and visitors from all three hospitals. See the Notice Board for details.",
+      "headline": "Support Hub now open in the Broomfield Atrium"
     },
     {
       "id": "new-front-door",
       "message": "The app has a new front door — tap what you need today. Everything from the old menu is still here, behind 'Everything in this app'.",
       "urgent": false,
-      "expires": "2026-09-30"
+      "expires": "2026-09-30",
+      "headline": "The app has a new front door"
     }
   ],
   "wifi": {
@@ -64,6 +66,11 @@
     "checkedOn": "2026-08-21"
   },
   "notices": [
+    {
+      "id": "new-front-door",
+      "title": "The app has a new front door",
+      "body": "Tap what you need today — I'm visiting someone, I'm going home soon and more. Everything from the old menu is still here, one tap away behind 'Everything in this app'."
+    },
     {
       "id": "support-hub",
       "title": "The Support Hub",
