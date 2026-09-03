@@ -6,13 +6,6 @@
       "headline": "The Support Hub"
     },
     {
-      "id": "new-front-door",
-      "message": "The app has a new front door — tap what you need today. Everything from the old menu is still here, behind 'Everything in this app'.",
-      "urgent": false,
-      "expires": "2026-09-30",
-      "headline": "The app has a new front door"
-    },
-    {
       "id": "coffee-floor-c",
       "headline": "New coffee shop now open",
       "message": "A new coffee shop is now open — see the Notice Board for where to find it."
