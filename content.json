@@ -17,7 +17,7 @@
     "steps": [
       "Open your phone's Wi-Fi settings and choose the network called NHS Wi-Fi.",
       "Read the terms and conditions, then press accept and connect.",
-      "You should then be connected — a page may open to confirm."
+      "Wait a moment — a page may open to confirm you're connected."
     ],
     "note": "Some websites may be blocked for security reasons.",
     "supportNote": "Problems connecting? The Wi-Fi is run by an outside company — you can call their support line on 0344 848 9555.",
@@ -46,7 +46,7 @@
           "Set a 6-digit access code — this lets you sign in easily next time.",
           "Enter the invitation code G28CMAJ.",
           "Upload your vehicle details and a photo of your Blue Badge.",
-          "You should then get a confirmation — your permit is active."
+          "Wait for a confirmation — your permit should then be active."
         ],
         "note": "In a different car one day, or would you rather not register online? You can instead enter your Blue Badge and car registration details at the validation console at reception for that day's parking.",
         "url": "https://nexusplatform.co.uk/register",
@@ -1138,7 +1138,7 @@
           {
             "name": "Social spaces",
             "type": "Vending and cash machines",
-            "hours": "We have areas where you can sit, rest and eat during your visit. These are the wellbeing terrace, main entrance courtyard and at the end of the atrium."
+            "hours": "There are areas where you can sit, rest and eat during your visit. These are the wellbeing terrace, main entrance courtyard and at the end of the atrium."
           }
         ]
       }
