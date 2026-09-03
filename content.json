@@ -48,7 +48,7 @@
           "Upload your vehicle details and a photo of your Blue Badge.",
           "You should then get a confirmation — your permit is active."
         ],
-        "note": "In a different car one day, or would rather not register online? You can instead enter your Blue Badge and car registration details at the validation console at reception for that day's parking.",
+        "note": "In a different car one day, or would you rather not register online? You can instead enter your Blue Badge and car registration details at the validation console at reception for that day's parking.",
         "url": "https://nexusplatform.co.uk/register",
         "urlLabel": "Register your Blue Badge"
       },
@@ -292,7 +292,7 @@
         "ward": "Mulberry assessment",
         "specialty": "Maternity",
         "location": "Level D, Maternity Block",
-        "phone": "0300 44 3 5555"
+        "phone": "0300 443 5555"
       },
       {
         "hospital": "basildon",
@@ -435,7 +435,7 @@
         "specialty": "Acute Medicine",
         "location": "Prittlewell wing, Ground Floor, Dowsett ward",
         "phone": "0300 443 0562",
-        "visiting": "Visiting is 24 hours, 7 days a week"
+        "visiting": "24 hours, 7 days a week"
       },
       {
         "hospital": "southend",
@@ -575,7 +575,7 @@
       {
         "hospital": "southend",
         "ward": "Eye Ward",
-        "specialty": "Eye unit, Ophthalmology —",
+        "specialty": "Eye unit, Ophthalmology",
         "phone": "0300 443 2569",
         "visiting": "11am to 8pm"
       },
@@ -814,7 +814,7 @@
         "specialty": "Paediatric Burns",
         "location": "Zone E, 2nd floor, room 25",
         "phone": "0300 443 0405",
-        "visiting": "10am and 8pm, however only the parent that is not staying overnight can visit anytime"
+        "visiting": "10am to 8pm, however only the parent that is not staying overnight can visit anytime"
       },
       {
         "hospital": "broomfield",
@@ -844,7 +844,7 @@
         "specialty": "High Dependency",
         "location": "Zone A, 2nd floor, room 11",
         "phone": "0300 443 5373",
-        "visiting": "2pm to 4pm / 5pm and 7pm"
+        "visiting": "2pm to 4pm / 5pm to 7pm"
       },
       {
         "hospital": "broomfield",
@@ -852,7 +852,7 @@
         "specialty": "Intensive Care",
         "location": "Zone E, 2nd floor, room 26",
         "phone": "0300 443 0356",
-        "visiting": "2pm to 4pm / 5pm and 7pm"
+        "visiting": "2pm to 4pm / 5pm to 7pm"
       },
       {
         "hospital": "broomfield",
@@ -944,7 +944,7 @@
         "specialty": "Medical",
         "location": "Zone A, 2nd floor, room 4",
         "phone": "0300 443 7616",
-        "visiting": "8am to 8pm weekdays and 10am and 6pm weekend"
+        "visiting": "8am to 8pm weekdays and 10am to 6pm weekend"
       },
       {
         "hospital": "broomfield",
@@ -969,7 +969,7 @@
         "location": "Zone A, 3rd floor, room 02",
         "phone": "0300 443 7662",
         "phone2": "0300 443 3705",
-        "visiting": "2pm to 4pm / 5pm and 7pm"
+        "visiting": "2pm to 4pm / 5pm to 7pm"
       },
       {
         "hospital": "broomfield",
@@ -1040,7 +1040,7 @@
           {
             "name": "Pharmacy",
             "type": "Shops and cashiers office",
-            "hours": "Outpatients (Boots The Chemist) in the main entrance concourse, open Monday to Friday 9am to 6pm. Saturdays, Sundays, and Bank holidays (excluding Christmas Day and New Years Day) open 9.30am to 2.30pm."
+            "hours": "Outpatients (Boots The Chemist) in the main entrance concourse, open Monday to Friday 9am to 6pm. Saturdays, Sundays, and Bank holidays (excluding Christmas Day and New Year's Day) open 9.30am to 2.30pm."
           },
           {
             "name": "M&S",
@@ -1050,7 +1050,7 @@
           {
             "name": "WHSmith",
             "type": "Shops and cashiers office",
-            "hours": "Monday to Friday - 7am and 8pm. Saturday and Sunday - 8am to 7pm."
+            "hours": "Monday to Friday - 7am to 8pm. Saturday and Sunday - 8am to 7pm."
           },
           {
             "name": "Stock Shop",
@@ -1074,7 +1074,7 @@
           {
             "name": "Restaurant",
             "type": "Shops",
-            "hours": "Southend staff and visitors will be able to use the Time2Eat app on their mobile phones to order a variety of food, snacks, and drinks. Some items will have a staff discount, so ID will be required when collecting the order. When placing an order, customers will be able to choose a specific time slot to collect their order from either Wellspring Restaurant or the Education Centre dining room."
+            "hours": "Southend staff and visitors can use the Time2Eat app on their mobile phones to order a variety of food, snacks, and drinks. Some items have a staff discount, so ID is required when collecting the order. When placing an order, customers can choose a specific time slot to collect their order from either Wellspring Restaurant or the Education Centre dining room."
           }
         ]
       },
@@ -1083,7 +1083,7 @@
           {
             "name": "The Acorn Food Pod",
             "type": "Cafés",
-            "hours": "The Acorn Food pod Serving hot food for breakfast and lunch, the Acorn food pod is located next to the Medical Academic Unit. This is currently open to staff only. Open 7am to 3pm, Monday to Friday"
+            "hours": "Serving hot food for breakfast and lunch, the Acorn food pod is located next to the Medical Academic Unit. This is currently open to staff only. Open 7am to 3pm, Monday to Friday"
           },
           {
             "name": "Costa Coffee",
@@ -1093,7 +1093,7 @@
           {
             "name": "Pharmacy",
             "type": "Shops",
-            "hours": "Outpatients in the Main Atrium, is open Monday to Friday, 9am to 5pm."
+            "hours": "Outpatients in the Main Atrium is open Monday to Friday, 9am to 5pm."
           },
           {
             "name": "Friends of Broomfield",
@@ -1118,7 +1118,7 @@
           {
             "name": "Vending machines",
             "type": "Vending and cash machines",
-            "hours": "There are many vending machines throughout the hospital that offer food and drink refreshments. You can find them in: Zone A at in the central corridor, on level 2 - A&E department waiting room, near A205, and on level 3 near A305 Zone C on level 2 in the lift lobby Zone E on level 1 in the lift lobby and level 2 in the lift lobby."
+            "hours": "There are many vending machines throughout the hospital that offer food and drink refreshments. You can find them in: Zone A in the central corridor, on level 2 - A&E department waiting room, near A205, and on level 3 near A305 Zone C on level 2 in the lift lobby Zone E on level 1 in the lift lobby and level 2 in the lift lobby."
           },
           {
             "name": "Cash Machines (ATM)",
