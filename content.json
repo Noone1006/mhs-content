@@ -1148,5 +1148,34 @@
         ]
       }
     }
+  },
+  "radio": {
+    "intro": "Each hospital has its own radio station, run by volunteers for patients. Tap play and turn your sound up.",
+    "stations": [
+      {
+        "id": "bhr",
+        "name": "Basildon Hospital Radio",
+        "hospitalId": "basildon",
+        "blurb": "BHR 107.3 — a registered charity broadcasting to Basildon Hospital since the 1970s.",
+        "streamUrl": "https://fra-ranger01.dedicateware.com:2020/stream/basildonhospitalradio",
+        "websiteUrl": "https://www.basildonhospitalradio.com/"
+      },
+      {
+        "id": "shr",
+        "name": "Southend Hospital Radio",
+        "hospitalId": "southend",
+        "blurb": "A registered charity playing requests and favourites for Southend Hospital.",
+        "websiteUrl": "https://www.southendhospitalradio.co.uk/player/"
+      },
+      {
+        "id": "hrc",
+        "name": "Hospital Radio Chelmsford",
+        "hospitalId": "broomfield",
+        "blurb": "Broadcasting around the clock from its studios at Broomfield Hospital — a registered charity.",
+        "streamUrl": "https://solid55.streamupsolutions.com/proxy/mmbdfslu/stream",
+        "websiteUrl": "https://www.hrc.org.uk/"
+      }
+    ],
+    "checkedOn": "2026-09-04"
   }
 }
