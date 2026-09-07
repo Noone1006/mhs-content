@@ -14,6 +14,11 @@
       "id": "armed-forces-community",
       "headline": "Serving or served in the Armed Forces?",
       "message": "Serving in the Armed Forces, a reservist or a veteran — or immediate family of someone who has served? Telling hospital staff can help with your care. See the Notice Board for details."
+    },
+    {
+      "id": "stop-before-your-op",
+      "headline": "Smoke? Stop before your op",
+      "message": "Coming in for an operation? Quitting smoking first cuts the risk of complications and helps you heal — free help is available. See the Notice Board for details."
     }
   ],
   "wifi": {
@@ -95,6 +100,15 @@
       "url": "https://noone1006.github.io/mhs-content/armed-forces-community.pdf",
       "urlLabel": "Open the poster as a PDF",
       "image": "https://noone1006.github.io/mhs-content/armed-forces-community.jpg",
+      "imageAspect": 1.7778
+    },
+    {
+      "id": "stop-before-your-op",
+      "title": "Stop Before Your Op",
+      "body": "Quitting smoking before your operation cuts the risk of complications, helps wounds heal and makes recovery smoother — and the benefits start within days of stopping. Even if your operation is soon, stopping now is still worthwhile. For free help, speak to your pre-assessment team or your local stop smoking service: Essex 0300 303 9988, Southend 0333 005 0095, Thurrock 0800 292 2299.",
+      "url": "https://noone1006.github.io/mhs-content/stop-before-your-op.pdf",
+      "urlLabel": "Open the poster as a PDF",
+      "image": "https://noone1006.github.io/mhs-content/stop-before-your-op.png",
       "imageAspect": 1.7778
     }
   ],
