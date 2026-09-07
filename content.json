@@ -9,6 +9,11 @@
       "id": "coffee-floor-c",
       "headline": "New coffee shop now open",
       "message": "A new coffee shop is now open — see the Notice Board for where to find it."
+    },
+    {
+      "id": "armed-forces-community",
+      "headline": "Serving or served in the Armed Forces?",
+      "message": "Serving in the Armed Forces, a reservist or a veteran — or immediate family of someone who has served? Telling hospital staff can help with your care. See the Notice Board for details."
     }
   ],
   "wifi": {
@@ -82,6 +87,15 @@
       "title": "New coffee shop now open",
       "body": "You'll find it on Floor C, near the main lifts.",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 120\" width=\"120\" height=\"120\">\n  <path d=\"M53 28 q-7 -7 0 -13 q7 -6 0 -13\" fill=\"none\" stroke=\"#AEB7C2\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <path d=\"M67 28 q-7 -7 0 -13 q7 -6 0 -13\" fill=\"none\" stroke=\"#AEB7C2\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n  <rect x=\"35\" y=\"34\" width=\"50\" height=\"13\" rx=\"3.5\" fill=\"#C7CBD1\"/>\n  <rect x=\"51\" y=\"28\" width=\"18\" height=\"8\" rx=\"2.5\" fill=\"#C7CBD1\"/>\n  <path d=\"M39 47 L81 47 L75 106 Q74.5 111 69.5 111 L50.5 111 Q45.5 111 45 106 Z\" fill=\"#F6F7F9\" stroke=\"#C4CCD4\" stroke-width=\"2.2\"/>\n  <path d=\"M42 68 L78 68 L76 86 L44 86 Z\" fill=\"#005EB8\"/>\n  <path d=\"M60 83 l-4.5 -4.5 a2.8 2.8 0 0 1 4.5 -3.4 a2.8 2.8 0 0 1 4.5 3.4 z\" fill=\"#ffffff\"/>\n</svg>"
+    },
+    {
+      "id": "armed-forces-community",
+      "title": "The Armed Forces Community",
+      "body": "Are you serving in the Armed Forces, a reservist or a veteran — or immediate family of someone who has served? Tell a member of staff, even if service was brief or long ago. With your agreement, they can note it on your patient record — it can help the team understand your health needs and connect you to dedicated NHS support, such as Op COURAGE for mental health.",
+      "url": "https://noone1006.github.io/mhs-content/armed-forces-community.pdf",
+      "urlLabel": "Open the poster as a PDF",
+      "image": "https://noone1006.github.io/mhs-content/armed-forces-community.jpg",
+      "imageAspect": 1.7778
     }
   ],
   "wardInfo": {
