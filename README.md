@@ -20,8 +20,12 @@ an app update**.
   show a stale price. Setting `"sections": []` deliberately withdraws the
   whole block (the app falls back to trust-website links); deleting the
   key instead keeps each phone's last good copy.
+- **radio** — the three hospital radio stations, played inside the app.
+  Stream addresses must be **https** (a station without one shows its
+  website link instead), and `"stations": []` is the remote off-switch:
+  it removes the radio button from the app's first screen entirely.
 
-Changes appear in the app within a few minutes of being saved here.
+Changes appear in the app about 10 minutes after being saved here.
 
 > Keep `content.json` as valid JSON. The easiest way to change it is to ask Claude,
 > or use the Banner/Notice tools — they keep the format correct for you.
