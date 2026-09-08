@@ -108,7 +108,7 @@
     }
   ],
   "wardInfo": {
-    "checkedOn": "2026-08-18",
+    "checkedOn": "2026-09-08",
     "switchboards": {
       "basildon": "0300 443 0003",
       "southend": "0300 443 0002",
@@ -226,7 +226,7 @@
         "specialty": "Vascular",
         "location": "Level A, Middle Block towards Jubilee Wing",
         "phone": "0300 443 5363",
-        "visiting": "11am to 8pm"
+        "visiting": "11.30am to 9pm"
       },
       {
         "hospital": "basildon",
@@ -682,7 +682,7 @@
         "hospital": "southend",
         "ward": "Paediatric Assessment Unit (PAU)",
         "location": "Floor 1, Cardigan Building",
-        "phone": "0300 443 0535",
+        "phone": "0300 443 1480",
         "visiting": "11am to 8pm"
       },
       {
